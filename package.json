@@ -1,11 +1,19 @@
 {
-  "name": "vue-ts-template",
+  "name": "vue-ts-templater",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "repository": "",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Lakshya Khera",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "minimist": "^1.2.5"
+  },
+  "bin": {
+    "vue-ts-templater": "./lib/index.js"
+  }
 }
