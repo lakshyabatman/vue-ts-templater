@@ -1,8 +1,8 @@
 {
   "name": "vue-ts-templater",
   "version": "1.0.0",
-  "description": "",
-  "repository": "",
+  "description": "Npm lib which generates a vue component file for Vue + Typescript",
+  "repository": "https://github.com/lakshyabatman/vue-ts-templater",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
