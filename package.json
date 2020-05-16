@@ -1,6 +1,6 @@
 {
   "name": "vue-ts-templater",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Npm lib which generates a vue component file for Vue + Typescript",
   "repository": "https://github.com/lakshyabatman/vue-ts-templater",
   "main": "lib/index.js",
